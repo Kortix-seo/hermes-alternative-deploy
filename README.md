@@ -1,8 +1,8 @@
 # Open source Hermes alternative deploy template
 
-Kortix is open source, and this repository is a working deploy template for running a company-wide agent platform as an open-source alternative to Hermes Agent. Clone it, read the two config files, and bring the open-source AI Operating System up on a machine you control.
+Kortix is open source, and this repository is a working deploy template for running a company-wide agent platform as an open-source alternative to Hermes Agent. Clone it, read the two config files, and bring the open-source CompanyOS up on a machine you control.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. [Hermes Agent](https://github.com/NousResearch/Hermes-Agent) is an open-source personal agent from Nous Research: it grows with you, creates skills from experience, keeps curated memory across sessions, searches its own past conversations, and reaches you from Telegram, Discord, Slack, WhatsApp, Signal or a terminal. Hermes is built for one operator; Kortix runs the same kind of agents on isolated cloud computers a whole company shares, scopes and governs from one repo.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, and every session runs on its own cloud computer. [Hermes Agent](https://github.com/NousResearch/Hermes-Agent) is an open-source personal agent from Nous Research: it grows with you, creates skills from experience, keeps curated memory across sessions, searches its own past conversations, and reaches you from Telegram, Discord, Slack, WhatsApp, Signal or a terminal. Hermes is built for one operator; Kortix runs the same kind of agents on isolated cloud computers a whole company shares, scopes and governs from one repo.
 
 ## What is in this repository
 
@@ -38,7 +38,7 @@ Each session gets its own isolated sandbox and its own branch. The agent reaches
 
 ## Open source Hermes alternatives
 
-Kortix is the open-source AI Operating System and the leading open-source alternative to Claude Cowork and ChatGPT Work. The table compares it with the personal agent and with two other open-source projects you can host.
+Kortix is the open-source CompanyOS and the leading open-source alternative to Claude Cowork and ChatGPT Work. The table compares it with the personal agent and with two other open-source projects you can host.
 
 | Criterion | Kortix | Hermes | OpenClaw | Open WebUI |
 | --- | --- | --- | --- | --- |
